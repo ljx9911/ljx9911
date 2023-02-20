@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ljx9911
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on text analysis
 - 📫 How to reach me: Email: ljx9911@126.com
 
 <!---
